@@ -1,2 +1,2 @@
-# springboot-interview
-This Repo contains all the major interview questions aksed for spring boot
+# Springboot Interview Questions
+This Repo contains all the major interview questions being aksed for spring boot interview
